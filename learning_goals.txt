@@ -1,0 +1,4 @@
+ 3 personal learning goals for backend development
+ 1. I learned to create git hub repo link and work on it in local repo 
+ 2. learned how to use git hub. 
+ 3. I learned to use git commands like git add . , git commit etc.
